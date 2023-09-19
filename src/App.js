@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Feature changed
+          Feature changed 1
         </p>
       </header>
     </div>
